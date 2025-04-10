@@ -2,6 +2,12 @@
 
 This repository accompanies the paper "`Investigating Gender Fairness of Recommendation Algorithms in the Music Domain`" by Alessandro B. Melchiorre, Navid Rekabsaz, Emilia Parada-Cabaleiro, Stefan Brandl, Oleg Lesota, and Markus Schedl.
 
+## Data
+
+Download the data from here: https://drive.google.com/file/d/1QUbHlSvlu18TxeD5BxFyzq_vVBOVzhRP/view?usp=sharing
+and extract it into the data folder.
+
+
 ## Installation
 
 Create the environment with
